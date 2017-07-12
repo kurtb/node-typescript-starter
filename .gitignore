@@ -1,0 +1,5 @@
+# Compiled TypeScript and CSS
+dist
+
+# Dependency directory
+node_modules
